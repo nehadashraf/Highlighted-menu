@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730497174 source:d:\work_space\iti scholarship\intro to programming c\labs\day4\employee-menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
